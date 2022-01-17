@@ -1,2 +1,2 @@
-# project-examples
+# code-examples
 Code examples
